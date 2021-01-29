@@ -33,11 +33,16 @@ The following **additional** features are implemented:
 - [ ] Copy of the total email can be sent to self or a friend
 
 
-## Video Walkthrough
+## Video Walkthrough #1
 
 Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/c2fo4viryKAURLAm5f/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+## Video Walkthrough #2
+
+Another gif!
 
 <img src='http://g.recordit.co/W7VqksazTS.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
