@@ -1,5 +1,4 @@
 # TipCalculatorPreworkv3.0
-# TipCalculatorPrework
 
 # TipCalculatorPrework
 # Pre-work - *Tip Calculator*
