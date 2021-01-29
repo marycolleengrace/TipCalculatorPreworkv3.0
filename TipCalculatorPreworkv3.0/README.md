@@ -50,7 +50,7 @@ Another gif!
 
 ## Notes
 
-Getting used to programatically change UI was challenging as this is my first experience with Swift
+Getting used to programatically change UI was challenging, as this is my first experience with Swift Programming Language
 
 ## License
 
