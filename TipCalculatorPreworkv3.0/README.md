@@ -40,13 +40,6 @@ Here's a walkthrough of implemented user stories:
 <img src='https://media.giphy.com/media/c2fo4viryKAURLAm5f/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-## Video Walkthrough #2
-
-Another gif!
-
-<img src='http://g.recordit.co/W7VqksazTS.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
 ## Notes
 
 Getting used to programatically change UI was challenging, as this is my first experience with Swift Programming Language
