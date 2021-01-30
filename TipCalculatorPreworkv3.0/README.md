@@ -30,6 +30,7 @@ The following **additional** features are implemented:
 - [ ] Switch between Dark Mode and Light Mode
 - [ ] Remembers the total bill amount in the spotlight search
 - [ ] Copy of the total email can be sent to self or a friend
+- [ ] Splash screen added
 
 
 ## Video Walkthrough #1
