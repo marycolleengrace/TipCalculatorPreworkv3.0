@@ -12,25 +12,25 @@ Time spent: **16** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [x] UI animations
+* [x] Remembering the bill amount across app restarts (if <10mins)
+* [x] Using locale-specific currency and currency thousands separators.
+* [x] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
-- [ ] Font size can be changed
-- [ ] Color Theme can be changed
-- [ ] Switch between Dark Mode and Light Mode
-- [ ] Remembers the bill amount across app restarts. After an extended period of time, clears the state. This was implemented with the Spotlight app. If ywe return there a minute later, it shows our most recent search and if you return 10 minutes later, it defaults to blank.
-- [ ] Uses locale specific currency and currency thousands separator
-- [ ] The keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app.
-- [ ] Copy of the total email can be sent to self or a friend
+- [x] Font size can be changed
+- [x] Color Theme can be changed
+- [x] Switch between Dark Mode and Light Mode
+- [x] Remembers the bill amount across app restarts. After an extended period of time, clears the state. This was implemented with the Spotlight app. If ywe return there a minute later, it shows our most recent search and if you return 10 minutes later, it defaults to blank.
+- [x] Uses locale specific currency and currency thousands separator
+- [x] The keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app.
+- [x] Copy of the total email can be sent to self or a friend
 
 
 ## Video Walkthrough #1
